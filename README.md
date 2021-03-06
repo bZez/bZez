@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://pbs.twimg.com/profile_banners/27913844/1613667393/600x200" width="100%">
 <!--
 **bZez/bZez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
